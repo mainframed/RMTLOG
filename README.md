@@ -4,6 +4,8 @@
 
 Original Author: John C. Miller, john@jmit.com 09/12/2016
 
+CBT Tape 955: http://www.cbttape.org/ftp/cbt/CBT955.zip
+
 ## Overview
 
 RMTLOG is a z/OS started task that transmits z/OS console hardcopy messages to an external RFC 3164/5424 compliant Syslog appliance or server.  Its purpose is to enhance z/OS security and auditability by establishing near real time logging to an external syslog server. Such a remote syslog appliance/server can be any device that is compliant with RFC 3164 and/or RFC 5424.  Unix and Linux servers are typically packaged with syslogd or syslog-ng, both of which are RFC compliant.
